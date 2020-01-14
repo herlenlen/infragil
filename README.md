@@ -4,7 +4,7 @@ Um pequeno exemplo de uma aplicação em pyhon, com dois arquivos:
 
 - app.py
 - requiremets.txt
-- readmeme.md
+- readme.md
 
 0 **negrito** e o *sublinhado*.
 
